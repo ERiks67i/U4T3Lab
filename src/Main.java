@@ -29,7 +29,7 @@ public class Main
         double[] array2 = {8.2 , 14.8};
         double[] array3 = {8.2 + 7.5 , 14.8 * 10};
         System.out.println(array3[0]);
-        System.out.println(array3[1]);
+        System.out.println(array3[1]);*/
         String[] animals = new String[4];
         System.out.println(animals[0]);
         System.out.println(animals[1]);
@@ -58,7 +58,7 @@ public class Main
         int[] ints2 = ints1;
         ints2[3] = 15;
         System.out.println(ints1[3]);
-        System.out.println(ints2[3]);*/
+        System.out.println(ints2[3]);
         String[] myStrs = {"hi", "bye", "what", "purple"};
         int arrLen = myStrs.length;
         int strLen = myStrs[3].length();
